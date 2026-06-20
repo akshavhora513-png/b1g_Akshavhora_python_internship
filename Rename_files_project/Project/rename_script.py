@@ -2,8 +2,7 @@ import os
 from pathlib import Path
 
 # Folder containing the images
-folder_path = r"C:\Users\PC 9\Desktop\Rename_files_project"
-
+folder_path = r"C:\Users\PC 9\Downloads\INTERNSHIP PYTHON"
 # Prefix for new filenames
 new_prefix = "Vacation"
 

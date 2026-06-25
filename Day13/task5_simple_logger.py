@@ -16,6 +16,7 @@ print("Logs written. Current logs:\n")
 # Read logs
 try:
     with open("log.txt", "r") as file:
+        
         print(file.read())
 except FileNotFoundError:
     pass
